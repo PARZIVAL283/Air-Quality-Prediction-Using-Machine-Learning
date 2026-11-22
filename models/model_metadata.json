@@ -1,0 +1,33 @@
+{
+    "model_name": "Tuned_Random_Forest_Regressor_SDG",
+    "target": "CO(GT)",
+    "target_unit": "mg/m3",
+    "features": [
+        "PT08.S1(CO)",
+        "PT08.S2(NMHC)",
+        "PT08.S3(NOx)",
+        "PT08.S4(NO2)",
+        "PT08.S5(O3)",
+        "T",
+        "RH",
+        "AH",
+        "hour_sin",
+        "hour_cos",
+        "month_sin",
+        "month_cos",
+        "weekday_sin",
+        "weekday_cos"
+    ],
+    "number_of_features": 14,
+    "test_metrics": {
+        "MAE": 0.3149,
+        "RMSE": 0.4666,
+        "R2": 0.8713
+    },
+    "cross_validation": {
+        "folds": 5,
+        "mean_MAE": 0.3213,
+        "mean_RMSE": 0.4675,
+        "mean_R2": 0.8866
+    }
+}
