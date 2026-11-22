@@ -280,11 +280,15 @@ The live API monitoring module is independent of the UCI-trained machine learnin
 
 ## 👨‍💻 Author
 
-**Parzival**
+**Sourodip Das Gupta**
 
-Computer Science and Engineering Student
+Computer Science and Engineering Student, ML, NLP researcher
 
-GitHub: [Your GitHub Profile](https://github.com/YOUR_USERNAME)
+GitHub: https://github.com/PARZIVAL283
+
+Email: sourodipdasgupta283@gmail.com
+
+linkedIn: www.linkedin.com/in/sourodip-das-gupta-3b97a62a6
 
 ---
 
