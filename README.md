@@ -21,7 +21,7 @@ This project develops a machine learning pipeline to predict Carbon Monoxide (CO
 
 **Dataset:** UCI Air Quality Dataset
 
-**Source:** [UCI Machine Learning Repository – Air Quality](https://archive.ics.uci.edu/dataset/387/air+quality)
+**Source:** [UCI Machine Learning Repository – Air Quality](https://archive.ics.uci.edu/dataset/360/air+quality)
 
 Dataset characteristics:
 
