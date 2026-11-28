@@ -25,7 +25,7 @@
 <a href="https://www.linkedin.com/in/sourodip-das-gupta-3b97a62a6">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
-
+<br>
 </div>👨‍💻 About Me
 Hey! I'm Sourodip Das Gupta, a Computer Science and Engineering student interested in building practical solutions with Artificial Intelligence, Machine Learning, and Data Science.
 
