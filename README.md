@@ -79,7 +79,8 @@ Improving Short-Form Video Virality Prediction Through Multimodal Incongruency D
 My approved undergraduate thesis explores whether multimodal incongruency information can improve short-form video virality prediction.
 
 This research is currently in progress.
-📈 GitHub at a Glance
+
+<H1>📈 GitHub at a Glance</H1>
 <div align="center"><img
   height="165"
   src="https://github-readme-stats.vercel.app/api?username=PARZIVAL283&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
