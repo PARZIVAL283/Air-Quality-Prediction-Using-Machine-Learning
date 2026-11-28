@@ -1,5 +1,5 @@
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Sourodip&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=58&descSize=18"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Sourodip_Das_Gupta&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=58&descSize=18"
   width="100%"
   alt="PARZIVAL animated profile header"
 />
