@@ -38,7 +38,7 @@ I enjoy exploring how data, algorithms, and intelligent systems can solve real-w
 - 🚀 Learning by building, experimenting, and documenting projects
 My goal: Keep learning, build useful technology, and grow into an AI/ML Engineer.
 
-🛠️ Tech Stack & Tools
+<H1>🛠️ Tech Stack & Tools</H1>
 <div align="center">Languages
 <img src="https://skillicons.dev/icons?i=python,mysql" alt="Python and SQL"/>Machine Learning & Data Science
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
@@ -50,7 +50,7 @@ My goal: Keep learning, build useful technology, and grow into an AI/ML Engineer
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/></div>🚀 Featured Projects
 
-🌍 Air Quality Prediction Using Machine Learning
+<H1>🌍 Air Quality Prediction Using Machine Learning</H1>
 An end-to-end regression project that predicts carbon monoxide (CO) concentration using environmental and sensor measurements from the UCI Air Quality dataset.
 - Built and compared regression models, including Linear Regression and Random Forest.
 - Applied data cleaning, median imputation, cyclical time-feature engineering, and chronological train-test splitting.
@@ -64,7 +64,9 @@ RMSE	0.4666
 R²	0.8713
 
 
-🔗 Live Streamlit App · Find the repository on my GitHub
+<H1>🔗 Live Streamlit App </H1>
+
+Find the repository on my GitHub
 🤖 AidMate — AI-Powered Assistant
 An AI assistant application built with Python and a Groq-powered language model integration.
 - Practiced connecting an application to an LLM API.
