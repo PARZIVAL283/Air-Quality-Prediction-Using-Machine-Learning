@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 <br>
-</div>👨‍💻 About Me
+</div><H1>👨‍💻 About Me</H1>
 Hey! I'm Sourodip Das Gupta, a Computer Science and Engineering student interested in building practical solutions with Artificial Intelligence, Machine Learning, and Data Science.
 
 I enjoy exploring how data, algorithms, and intelligent systems can solve real-world problems. I’m currently strengthening my foundations in machine learning while exploring modern AI application development.
