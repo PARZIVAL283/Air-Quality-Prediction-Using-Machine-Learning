@@ -40,7 +40,9 @@ My goal: Keep learning, build useful technology, and grow into an AI/ML Engineer
 
 <H1>🛠️ Tech Stack & Tools</H1>
 <div align="center">Languages
-<img src="https://skillicons.dev/icons?i=python,mysql" alt="Python and SQL"/>Machine Learning & Data Science
+<img src="https://skillicons.dev/icons?i=python,mysql" alt="Python and SQL"/>
+
+Machine Learning & Data Science
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
