@@ -38,19 +38,40 @@ I enjoy exploring how data, algorithms, and intelligent systems can solve real-w
 - 🚀 Learning by building, experimenting, and documenting projects
 My goal: Keep learning, build useful technology, and grow into an AI/ML Engineer.
 
-<H1>🛠️ Tech Stack & Tools</H1>
-<div align="center">Languages
-<img src="https://skillicons.dev/icons?i=python,mysql" alt="Python and SQL"/>
 
-Machine Learning & Data Science
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>Development & Deployment
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/></div>🚀 Featured Projects
+<h1>🛠️ Tech Stack & Tools</h1>
+
+<table align="center">
+  <tr>
+    <th>Category</th>
+    <th>Technologies & Tools</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,mysql" alt="Python and MySQL"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Machine Learning & Data Science</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Development & Deployment</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+    </td>
+  </tr>
+</table>
+
 
 <H1>🌍 Air Quality Prediction Using Machine Learning</H1>
 An end-to-end regression project that predicts carbon monoxide (CO) concentration using environmental and sensor measurements from the UCI Air Quality dataset.
