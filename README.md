@@ -24,15 +24,17 @@
 </a>
 <a href="https://www.linkedin.com/in/sourodip-das-gupta-3b97a62a6">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a></div>👨‍💻 About Me
-Hey! I'm Parzival, a Computer Science and Engineering student interested in building practical solutions with Artificial Intelligence, Machine Learning, and Data Science.
+</a>
+
+</div>👨‍💻 About Me
+Hey! I'm Sourodip Das Gupta, a Computer Science and Engineering student interested in building practical solutions with Artificial Intelligence, Machine Learning, and Data Science.
 
 I enjoy exploring how data, algorithms, and intelligent systems can solve real-world problems. I’m currently strengthening my foundations in machine learning while exploring modern AI application development.
 - 🎓 Computer Science & Engineering student
 - 🤖 Interested in AI, Machine Learning, and Data Science
 - 🐍 Working with Python and SQL
 - 📊 Practicing data preprocessing, exploratory analysis, feature engineering, and model evaluation
-- 🧠 Exploring APIs, NLP, Retrieval-Augmented Generation (RAG), and LLM applications
+- 🧠 Working APIs, NLP, Retrieval-Augmented Generation (RAG), and LLM applications
 - 🚀 Learning by building, experimenting, and documenting projects
 My goal: Keep learning, build useful technology, and grow into an AI/ML Engineer.
 
@@ -47,12 +49,14 @@ My goal: Keep learning, build useful technology, and grow into an AI/ML Engineer
 <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/></div>🚀 Featured Projects
+
 🌍 Air Quality Prediction Using Machine Learning
 An end-to-end regression project that predicts carbon monoxide (CO) concentration using environmental and sensor measurements from the UCI Air Quality dataset.
 - Built and compared regression models, including Linear Regression and Random Forest.
 - Applied data cleaning, median imputation, cyclical time-feature engineering, and chronological train-test splitting.
 - Tuned a Random Forest Regressor using RandomizedSearchCV.
 - Developed an interactive multi-page Streamlit application.
+
 Best test results:
 Metric	Result
 MAE	0.3149
